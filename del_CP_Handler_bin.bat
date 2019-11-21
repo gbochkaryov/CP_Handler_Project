@@ -1,0 +1,1 @@
+DEL D:\YandexDisk-bochkarevgeorgy\PROJECTS\CP_Handler_Project\CP_Handler\bin\*.* /q

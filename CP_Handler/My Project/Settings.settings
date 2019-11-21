@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="FolderIn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\CP_Handler\In\</Value>
+    </Setting>
+    <Setting Name="LastName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Фамилия</Value>
+    </Setting>
+    <Setting Name="FirstName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Имя</Value>
+    </Setting>
+    <Setting Name="SecondName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Отчество</Value>
+    </Setting>
+    <Setting Name="BirthDate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Дата рождения</Value>
+    </Setting>
+    <Setting Name="Snils" Type="System.String" Scope="User">
+      <Value Profile="(Default)">СНИЛС</Value>
+    </Setting>
+    <Setting Name="PeriodStart" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Период трудовой деятельности, требующий подтверждения (начало)</Value>
+    </Setting>
+    <Setting Name="PeriodEnds" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Период (конец)</Value>
+    </Setting>
+    <Setting Name="FolderOut" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\CP_Handler\Out\</Value>
+    </Setting>
+    <Setting Name="FolderArc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\CP_Handler\Arc\</Value>
+    </Setting>
+    <Setting Name="FolderLog" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\CP_Handler\Log\</Value>
+    </Setting>
+    <Setting Name="DbLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.15.0.60</Value>
+    </Setting>
+    <Setting Name="DbName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ROS</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
